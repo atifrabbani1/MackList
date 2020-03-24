@@ -10,7 +10,6 @@ class UserPost extends Component {
 
     constructor(props) {
         super(props);
-
         this.state = {
             imageURL: '',
             allposts: [],
